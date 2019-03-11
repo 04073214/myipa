@@ -27,7 +27,7 @@
                 </dict>
             </array>
             <key>metadata</key>
-            <dict>
+            <dict> 
                 <key>bundle-identifier</key>
                 <string>com.game.qp331</string>
                 <key>bundle-version</key>
